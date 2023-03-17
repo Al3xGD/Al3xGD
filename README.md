@@ -8,8 +8,6 @@ Bueno eso es todo!!!
 
 ### Mis Leguajes:
 
-Desarrollo Web:
-
 - <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
  HTML
 - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
@@ -20,15 +18,7 @@ Desarrollo Web:
 - <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
  Mysql
 
-**Lenguajes para administracion de sistemas**
-
-- Bash Scripting
-- VBScript
-- Powershell
-
-**Lenguajes para cosas Nice!!**
-
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a> Python
+- <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a> Python
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al3xGD&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
