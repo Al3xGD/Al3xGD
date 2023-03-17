@@ -20,5 +20,19 @@ Bueno eso es todo!!!
 
 - <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a> Python
 
+- <img src="gnu-bash.png" title="Bash Scripting" alt="Bash Scripting" width="21px" height="21px"> Bash Scripting 
+
+```
+ __________________________________
+< Contact me chaoskid2.0@gmail.com >
+ ----------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+```
+
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al3xGD&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
