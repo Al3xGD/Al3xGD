@@ -6,7 +6,7 @@ que tengo memoria. Soy de la ciudad de Santa Cruz de la Sierra, Bolivia :bolivia
 
 Bueno eso es todo!!!
 
-### Mis Leguajes:
+### Mis Lenguajes:
 
 - <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
  HTML
