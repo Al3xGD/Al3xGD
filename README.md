@@ -18,7 +18,9 @@ que tengo memoria. Soy de la ciudad de Santa Cruz de la Sierra, Bolivia :bolivia
 
 - <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a> **Python**
 
-- <img src="gnu-bash.png" title="Bash Scripting" alt="Bash Scripting" width="21px" height="21px"> **Bash Scripting** 
+- <img src="gnu-bash.png" title="Bash Scripting" alt="Bash Scripting" width="21px" height="21px"> **Bash Scripting**
+
+- **SQL** 
 
 ```
  __________________________________
