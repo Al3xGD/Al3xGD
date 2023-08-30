@@ -1,5 +1,7 @@
 ## Hello World
 
+<img src="https://i.ibb.co/px1ZDdm/8d6e124de6a0283f50f1e018a25746b7.jpg" alt="8d6e124de6a0283f50f1e018a25746b7" width="900px" border="0">
+
 Que tal a tod@s soy Alex un apasionado por el mundo de la programacion y el Hacking
 Amo la musica (Derivados del Rock), las peliculas de ciencia ficcion y autodidacta desde 
 que tengo memoria. Soy de la ciudad de Santa Cruz de la Sierra, Bolivia :bolivia: y tengo 25 años.
@@ -20,7 +22,14 @@ que tengo memoria. Soy de la ciudad de Santa Cruz de la Sierra, Bolivia :bolivia
 
 - <img src="gnu-bash.png" title="Bash Scripting" alt="Bash Scripting" width="21px" height="21px"> **Bash Scripting**
 
-- **SQL** 
+- <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" width="21px" height="21px"> **MYSQL/SQL**
+
+### :books: Otras habilidades
+
+- **Ingles Basico/Intermedio**
+- **Manejo de MS Office: Word, Excel, Outlook, Powerpoint.**
+- **Redes a nivel intermedio** 
+
 
 ```
  __________________________________
