@@ -26,9 +26,11 @@ que tengo memoria. Soy de la ciudad de Santa Cruz de la Sierra, Bolivia :bolivia
 
 ### :books: Otras habilidades
 
-- **Ingles Basico/Intermedio**
+- **Ingles B1**
 - **Manejo de MS Office: Word, Excel, Outlook, Powerpoint.**
-- **Redes a nivel intermedio** 
+- **Redes**
+- **Instalacion de camaras de vigilacion y biometricos**
+- **Administracion de servidores Linux** 
 
 
 ```
